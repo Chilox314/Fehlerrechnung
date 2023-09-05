@@ -1,0 +1,4 @@
+x: Mittelwert = 4.0, Standardabweichung(einzeln) = 1.7951, Standardabweichung(Mittelwert) = 0.5677
+y: Mittelwert = 5.0, Standardabweichung(einzeln) = 1.6036, Standardabweichung(Mittelwert) = 0.414
+x: Mittelwert = 4.0, Standardabweichung(einzeln) = 1.7951, Standardabweichung(Mittelwert) = 0.5677
+y: Mittelwert = 5.0, Standardabweichung(einzeln) = 1.6036, Standardabweichung(Mittelwert) = 0.414
