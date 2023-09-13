@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 def main():
     x = input("Was möchtest du berechnen? (s: statistische Werte, l: lineare Regression, f: Fehlerfortpflanzungsgesetz)\n")
     if x == "s":
+        inputarray = np.array([float(x) for x in input("Gib deine Werte mit Leerzeichen separiert ein:\n").split(" & ")])
         n = len(inputarray)
         mean = np.mean(inputarray)
         standard_einzel = np.sqrt(1/(n-1) * np.sum((inputarray - mean)**2))
